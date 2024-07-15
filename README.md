@@ -1,9 +1,10 @@
 <div align="center">
+  
   <br />
-<!--     <a href="https://youtu.be/PuOVqP_cjkE?feature=shared" target="_blank">
+   <a href="https://youtu.be/PuOVqP_cjkE?feature=shared" target="_blank">
       <img src="https://github.com/adrianhajdin/banking/assets/151519281/3c03519c-7ebd-4539-b598-49e63d1770b4" alt="Project Banner">
-    </a> -->
-  ![cover](https://github.com/user-attachments/assets/298f2d6c-2da5-44f2-b2ad-9e4d2b810284)
+    </a> 
+  
   <br />
   
   <div>
